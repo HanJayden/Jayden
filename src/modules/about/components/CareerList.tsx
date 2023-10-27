@@ -5,16 +5,6 @@ import SectionHeading from '@/common/components/elements/SectionHeading';
 import SectionSubHeading from '@/common/components/elements/SectionSubHeading';
 import { CAREERS } from '@/common/constant/careers';
 
-
-
-
-
-
-
-
-
-
-
 const CareerList = () => {
   return (
     <section className='space-y-6'>

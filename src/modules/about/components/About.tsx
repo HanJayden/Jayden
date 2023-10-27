@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 import CareerList from './CareerList';
 import EducationList from './EducationList';
 import Skills from './Skills';

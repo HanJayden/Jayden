@@ -1,17 +1,8 @@
 import Link from 'next/link';
 
 import Tooltip from './Tooltip';
+
 import { MenuItemProps } from '@/common/types/menu';
-
-
-
-
-
-
-
-
-
-
 
 type SocialMediaProps = {
   items: MenuItemProps[];

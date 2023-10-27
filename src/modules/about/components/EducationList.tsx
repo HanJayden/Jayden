@@ -5,16 +5,6 @@ import SectionHeading from '@/common/components/elements/SectionHeading';
 import SectionSubHeading from '@/common/components/elements/SectionSubHeading';
 import { EDUCATION } from '@/common/constant/education';
 
-
-
-
-
-
-
-
-
-
-
 const EducationList = () => {
   return (
     <section className='space-y-6'>

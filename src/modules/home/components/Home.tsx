@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 import ContactForm from './ContactForm';
 import Introduction from './Introduction';
 import Services from './Services';

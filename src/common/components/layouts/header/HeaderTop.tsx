@@ -2,16 +2,14 @@ import clsx from 'clsx';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useContext } from 'react';
+
 import { BiCommand as CommandIcon } from 'react-icons/bi';
-import {
-  MdVerified as VerifiedIcon,
-} from 'react-icons/md';
 
-import { CommandPaletteContext } from '@/common/context/CommandPaletteContext';
-
+import { MdVerified as VerifiedIcon } from 'react-icons/md';
 import Image from '../../elements/Image';
 import ThemeToggleButton from '../../elements/ThemeToggleButton';
 import Tooltip from '../../elements/Tooltip';
+import { CommandPaletteContext } from '@/common/context/CommandPaletteContext';
 import { MENU_ITEMS } from '@/common/constant/menu';
 
 const HeaderTop = () => {

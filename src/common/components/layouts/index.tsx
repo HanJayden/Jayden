@@ -5,16 +5,6 @@ import { ReactNode } from 'react';
 import HeaderTop from './header/HeaderTop';
 import useHasMounted from '@/common/hooks/useHasMounted';
 
-
-
-
-
-
-
-
-
-
-
 interface LayoutProps {
   children: ReactNode;
 }
