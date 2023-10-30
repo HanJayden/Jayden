@@ -25,7 +25,7 @@ const HeaderTop = () => {
       <div className='flex gap-5 items-center justify-between py-8 mx-8'>
         <div className='flex items-center gap-5'>
           <Image
-            src='/images/jayden.jpg'
+            src='/Jayden/images/jayden.jpg'
             alt='Jayden Han'
             width={40}
             height={40}
