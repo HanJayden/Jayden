@@ -9,7 +9,7 @@ const defaultSEOConfig = {
   canonical: canonicalUrl,
   openGraph: {
     canonical: canonicalUrl,
-    title: 'Jayden Han - asdf Website',
+    title: 'Jayden Han - Personal Website',
     description: metaDescription,
     type: 'website',
     site_name: 'jayden.id',
