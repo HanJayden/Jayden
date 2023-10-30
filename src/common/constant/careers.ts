@@ -4,7 +4,7 @@ export const CAREERS: CareerProps[] = [
   {
     position: 'Lead Frontend Engineer',
     company: 'AAAAAAAA',
-    logo: '/images/careers/sirka.png',
+    logo: null,
     location: 'BBBBBBBB',
     location_type: 'Remote',
     type: 'Fulltime',
@@ -16,7 +16,7 @@ export const CAREERS: CareerProps[] = [
   {
     position: 'Sr. Frontend Engineer',
     company: 'AAAAAAAA',
-    logo: '/images/careers/sirka.png',
+    logo: null,
     location: 'AAAAAAAA',
     location_type: 'Remote',
     type: 'Fulltime',
@@ -28,7 +28,7 @@ export const CAREERS: CareerProps[] = [
   {
     position: 'Frontend Developer',
     company: 'AAAAAAAA',
-    logo: '/images/careers/paper-id.png',
+    logo: null,
     location: 'AAAAAAAA',
     location_type: 'Hybrid',
     type: 'Fulltime',
@@ -40,7 +40,7 @@ export const CAREERS: CareerProps[] = [
   {
     position: 'Full-Stack Developer',
     company: 'Gama Plantation',
-    logo: '/images/careers/kpn.png',
+    logo: null,
     location: 'AAAAAAAA',
     location_type: 'Onsite',
     type: 'Fulltime',
@@ -52,7 +52,7 @@ export const CAREERS: CareerProps[] = [
   {
     position: 'Full-Stack Developer',
     company: 'Rencong Network',
-    logo: '/images/careers/rencong.png',
+    logo: null,
     location: 'AAAAAAAA',
     location_type: 'Onsite',
     type: 'Freelance',
@@ -76,7 +76,7 @@ export const CAREERS: CareerProps[] = [
   {
     position: 'Web Developer',
     company: 'RAAAAAAAA',
-    logo: '/images/careers/riab.png',
+    logo: null,
     location: 'AAAAAAAA',
     location_type: 'Onsite',
     type: 'Part-time',
