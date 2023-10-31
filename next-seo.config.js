@@ -1,4 +1,4 @@
-const canonicalUrl = 'https://jayden.id';
+const canonicalUrl = 'https://hanjayden.github.io/Jayden';
 
 const metaDescription =
   'Seasoned Software Engineer especially in Frontend side, with a passion for creating pixel-perfect web experiences';
